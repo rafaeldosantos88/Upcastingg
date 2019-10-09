@@ -1,0 +1,11 @@
+C:\Temp\Upcasting\bin\Debug\netcoreapp2.1\Upcasting.deps.json
+C:\Temp\Upcasting\bin\Debug\netcoreapp2.1\Upcasting.runtimeconfig.json
+C:\Temp\Upcasting\bin\Debug\netcoreapp2.1\Upcasting.runtimeconfig.dev.json
+C:\Temp\Upcasting\bin\Debug\netcoreapp2.1\Upcasting.dll
+C:\Temp\Upcasting\bin\Debug\netcoreapp2.1\Upcasting.pdb
+C:\Temp\Upcasting\obj\Debug\netcoreapp2.1\Upcasting.csprojAssemblyReference.cache
+C:\Temp\Upcasting\obj\Debug\netcoreapp2.1\Upcasting.csproj.CoreCompileInputs.cache
+C:\Temp\Upcasting\obj\Debug\netcoreapp2.1\Upcasting.AssemblyInfoInputs.cache
+C:\Temp\Upcasting\obj\Debug\netcoreapp2.1\Upcasting.AssemblyInfo.cs
+C:\Temp\Upcasting\obj\Debug\netcoreapp2.1\Upcasting.dll
+C:\Temp\Upcasting\obj\Debug\netcoreapp2.1\Upcasting.pdb
